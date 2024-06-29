@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_start_followers">60dp</dimen>
+    <dimen name="margin_end_following">60dp</dimen>
+
+    <dimen name="pic_layout_width">132dp</dimen>
+    <dimen name="pic_layout_height">132dp</dimen>
+</resources>

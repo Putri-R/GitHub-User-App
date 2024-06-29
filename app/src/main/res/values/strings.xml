@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GitHub User</string>
+    <string name="search_account">Cari akun...</string>
+
+    <string name="account_followers_tab">Followers</string>
+    <string name="account_following_tab">Following</string>
+
+    <string name="no_follow_message">Tidak ada yang diikuti</string>
+
+</resources>
